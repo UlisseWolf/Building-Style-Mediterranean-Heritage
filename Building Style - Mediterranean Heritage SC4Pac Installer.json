@@ -1,0 +1,27 @@
+{
+  "explicit": [
+    "ulisse-wolf:building-style-mediterranean-heritage",
+    "lord-lucifer:rue-de-prato",
+    "lord-lucifer:plaza-toretto",
+    "lord-lucifer:ristorante-di-manolo",
+    "lord-lucifer:cafe-siciliana",
+    "wannglondon:medit-bldg-59",
+    "wannglondon:medit-bldg-50",
+    "wannglondon:wanng-random-pack-1",
+	"wannglondon:mediterranean-pack-3",
+	"wannglondon:mediterranean-pack-2",
+	"wannglondon:mediterranean-buildings-13-14",
+	"wannglondon:mediterranean-pack-1",
+	"wannglondon:mediterranean-flats-2",
+	"wannglondon:mediterranean-flats-corner-b",
+	"wannglondon:mediterranean-flats",
+	"wannglondon:mediterranean-flats-corner-a",
+	"wannglondon:mediterranean-pack-1",
+	"wannglondon:old-mediterranean-pack"
+  ],
+  "channels": [
+    "https://memo33.github.io/sc4pac/channel/",
+    "https://sc4pac.simtropolis.com/",
+    "https://sc4evermore.github.io/sc4pac-channel/channel/"
+  ]
+}
